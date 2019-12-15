@@ -46,9 +46,9 @@ public class Taxi {
     return true;
     }
     return false;
-}
+    }
     public void printCurrentLocation(){
     System.out.println ("Your current location is " +x +"," + y+ "");
     }
-}
+    }
 
